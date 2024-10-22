@@ -166,6 +166,7 @@ ex*.ipynb
 *.rar
 
 #large files
+0_download/download
 2_extract/data 
 3_validation/basemap
 
