@@ -31,4 +31,4 @@ conda env create --file environment.yml
 
 # Citation
 
-Tran, B. N., Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M. (2024). Evaluation of reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East (Version 1.0) [Code]. 
+Tran, B. N., Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M. (2024). Evaluation of reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East (Version 1.0) [Code]. [https://doi.org/10.5281/zenodo.13970799](https://doi.org/10.5281/zenodo.13970799)
