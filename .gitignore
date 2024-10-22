@@ -168,15 +168,15 @@ ex*.ipynb
 #large files
 0_download/download
 2_extract/data 
-3_validation/basemap
+3_insitu_comparison/basemap
 
 #not included in paper
 2_extract/lsasaf_data_access 
 3_consistency 
-3_validation/example
+3_insitu_comparison/example
 test_RET_methods 
 
 #in-situ data, no rights to publish
-3_validation/data/insitu 
-3_validation/tahmo 
+3_insitu_comparison/data/insitu 
+3_insitu_comparison/tahmo 
 
