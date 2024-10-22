@@ -169,6 +169,7 @@ ex*.ipynb
 0_download/download
 2_extract/data 
 3_insitu_comparison/basemap
+3_uncertainty_propagation/data
 
 #not included in paper
 2_extract/lsasaf_data_access 
