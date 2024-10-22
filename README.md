@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13970799.svg)](https://doi.org/10.5281/zenodo.13970799)
+
 # ReanalysisMeteoRET
 
 This repository provides jupyter notebooks with analyses for paper "Evaluation of reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East" (Submitted to Hydrological Sciences Journal)
