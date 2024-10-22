@@ -1,0 +1,22 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Tran
+  given-names: Bich Ngoc
+orcid: https://orcid.org/0000-0001-6301-2699
+- family-names: Dehati
+  given-names: Suzan
+- family-names: Seyoum
+  given-names: Solomon
+- family-names: van der Kwast
+  given-names: Johannes 
+- family-names: Jewitt
+  given-names: Graham 
+orcid: https://orcid.org/0000-0002-7444-7855
+- family-names: Uijlenhoet
+  given-names: Remko 
+- family-names: Mul
+  given-names: Marloes 
+title: Evaluation of reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East
+version: 1.0
+date-released: 2024-10-22
