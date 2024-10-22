@@ -21,7 +21,7 @@ The uncertainty between products was assessed by spatial and temporal pair-wise 
 # Data
 - ERA5 data are accessible at [https://doi.org/10.24381/cds.adbb2d47](https://doi.org/10.24381/cds.adbb2d47). 
 - AgERA5 data are accessible at [https://doi.org/10.24381/cds.adbb2d47](https://doi.org/10.24381/cds.adbb2d47). 
-- GEOS5 data are accessible at [https://opendap.nccs.nasa.gov/dods/GEOS5/fp/0.25_deg/assim](https://opendap.nccs.nasa.gov/dods/GEOS5/fp/0.25_deg/assim). 
+- GEOS5 data are accessible at [https://opendap.nccs.nasa.gov/dods/GEOS-5/fp/0.25_deg/assim](https://opendap.nccs.nasa.gov/dods/GEOS-5/fp/0.25_deg/assim). 
 - TAHMO dataset is available on request to the data providers at https://tahmo.org/climate-data/
 
 # Python environment
