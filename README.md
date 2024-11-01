@@ -20,7 +20,7 @@ The uncertainty between products was assessed by spatial and temporal pair-wise 
 
 # Data
 - ERA5 data are accessible at [https://doi.org/10.24381/cds.adbb2d47](https://doi.org/10.24381/cds.adbb2d47). 
-- AgERA5 data are accessible at [https://doi.org/10.24381/cds.adbb2d47](https://doi.org/10.24381/cds.adbb2d47). 
+- AgERA5 data are accessible at [https://doi.org/10.24381/cds.6c68c9bb](https://doi.org/10.24381/cds.6c68c9bb). 
 - GEOS5 data are accessible at [https://opendap.nccs.nasa.gov/dods/GEOS5/fp/0.25_deg/assim](https://opendap.nccs.nasa.gov/dods/GEOS5/fp/0.25_deg/assim). 
 - TAHMO dataset is available on request to the data providers at https://tahmo.org/climate-data/
 
@@ -31,4 +31,4 @@ conda env create --file environment.yml
 
 # Citation
 
-Tran, B. N., Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M. (2024). Evaluation of reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East (Version 1.0) [Code]. 
+Tran, B. N., Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M. (2024). Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East (Version 1.1) [Code]. 
