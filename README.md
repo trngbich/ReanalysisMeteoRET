@@ -2,7 +2,7 @@
 
 # ReanalysisMeteoRET
 
-This repository provides jupyter notebooks with analyses for paper "Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East" (Submitted to Hydrological Sciences Journal)
+This repository provides jupyter notebooks with analyses for paper "Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and Southwest Asia" (Submitted to Hydrological Sciences Journal)
 
 # Methods
 
@@ -31,5 +31,5 @@ conda env create --file environment.yml
 
 # Citation
 
-Tran, B. N., Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M. (2024). Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and the Near East (Version 1.0) [Code]. [https://doi.org/10.5281/zenodo.13970799](https://doi.org/10.5281/zenodo.13970799)
+Tran, B. N., Dehati, S., Seyoum, S., van der Kwast, J., Jewitt, G., Uijlenhoet, R., and Mul, M. (2024). Evaluating reanalysis datasets as meteorological input for estimating reference evapotranspiration over Africa and Southwest Asia (Version 2.0) [Code]. [https://doi.org/10.5281/zenodo.13970799](https://doi.org/10.5281/zenodo.13970799)
 
